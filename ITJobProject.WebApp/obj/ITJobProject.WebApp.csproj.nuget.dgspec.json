@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Đồ án tốt nghiệp\\ITJobProject\\ITJobProject.WebApp\\ITJobProject.WebApp.csproj": {}
+    "G:\\Đồ án tốt nghiệp\\Project_ITJob\\ITJobProject.WebApp\\ITJobProject.WebApp.csproj": {}
   },
   "projects": {
-    "G:\\Đồ án tốt nghiệp\\ITJobProject\\ITJobProject.WebApp\\ITJobProject.WebApp.csproj": {
+    "G:\\Đồ án tốt nghiệp\\Project_ITJob\\ITJobProject.WebApp\\ITJobProject.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Đồ án tốt nghiệp\\ITJobProject\\ITJobProject.WebApp\\ITJobProject.WebApp.csproj",
+        "projectUniqueName": "G:\\Đồ án tốt nghiệp\\Project_ITJob\\ITJobProject.WebApp\\ITJobProject.WebApp.csproj",
         "projectName": "ITJobProject.WebApp",
-        "projectPath": "G:\\Đồ án tốt nghiệp\\ITJobProject\\ITJobProject.WebApp\\ITJobProject.WebApp.csproj",
+        "projectPath": "G:\\Đồ án tốt nghiệp\\Project_ITJob\\ITJobProject.WebApp\\ITJobProject.WebApp.csproj",
         "packagesPath": "C:\\Users\\MM13\\.nuget\\packages\\",
-        "outputPath": "G:\\Đồ án tốt nghiệp\\ITJobProject\\ITJobProject.WebApp\\obj\\",
+        "outputPath": "G:\\Đồ án tốt nghiệp\\Project_ITJob\\ITJobProject.WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MM13\\AppData\\Roaming\\NuGet\\NuGet.Config",
